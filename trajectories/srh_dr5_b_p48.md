@@ -142,7 +142,7 @@
         'useInteriorColor': false
       });
       nucl.addRepresentation('cartoon', {
-        "sele": "(:A :B :C) and (295-303)",
+        "sele": "(:A :B :C) and (295-305)",
         "color": "cyan",
         "aspectRatio": aspectRatio,
         'radiusScale': radiusScale,
