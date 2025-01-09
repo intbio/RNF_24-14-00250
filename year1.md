@@ -4,8 +4,8 @@
 ### Задача "Молекулярное моделирование мультимодальных гибридных белков на основе DR5-B: построение атомистической модели, расчет молекулярной динамики для изучения динамических свойств системы. Молекулярно-динамический анализ междоменных взаимодействий, построение модели взаимодействия с целевыми рецепторами"
 #### Траектории молекудярной динамики (МД)
 - [SRH–DR5-B–P48](trajectories/srh_dr5_b_p48.md) - траектория МД тримера SRH–DR5-B–P48 (500 нс). Файлы для скачивания [PDB](trajectories/SRH_DR5-B_P48.pdb) [XTC](trajectories/SRH_DR5-B_P48.xtc)
-- [P48–DR5-B](trajectories/p48_dr5_b.md) - траектория МД тримера SRH–DR5-B–P48 (500 нс). Файлы для скачивания [PDB](trajectories/P48_DR5-B.pdb) [XTC](trajectories/P48_DR5-B.xtc)
-- [DR5-B–P48](trajectories/dr5_b_p48.md) - траектория МД тримера SRH–DR5-B–P48 (500 нс). Файлы для скачивания [PDB](trajectories/DR5-B_P48.pdb) [XTC](trajectories/DR5-B_P48.xtc)
+- [P48–DR5-B](trajectories/p48_dr5_b.md) - траектория МД тримера P48–DR5-8 (500 нс). Файлы для скачивания [PDB](trajectories/P48_DR5-B.pdb) [XTC](trajectories/P48_DR5-B.xtc)
+- [DR5-B–P48](trajectories/dr5_b_p48.md) - траектория МД тримера DR5-B–P48 (500 нс). Файлы для скачивания [PDB](trajectories/DR5-B_P48.pdb) [XTC](trajectories/DR5-B_P48.xtc)
 
 #### Молекулярный докинг 
 - [SRH–VEGFR2](docking/srh_vegfr2.md) - решения молекулярного докинга пептида SRH с рецептором VEGFR2 (PDB ID 2X1W, домены d2-d3)
