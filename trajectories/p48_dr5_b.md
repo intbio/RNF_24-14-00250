@@ -1,5 +1,5 @@
 ### P48–DR5-B - траектория молекулярной динамики тримера P48–DR5-B (500 нс)
-[Назад](http://intbio.github.io/RNF_24-14-00250/year1/)
+[Назад](http://intbio.github.io/RNF_24-14-00250/year1.html)
 
 <html lang="en">
   <head>
