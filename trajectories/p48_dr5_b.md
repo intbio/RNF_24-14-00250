@@ -460,7 +460,7 @@
 
 </script>
     <br>
-    <p style="color:#F334F1;font-size:22px;font-family:verdana;font-weight: bold;text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;display: inline">P48  </p>
+    <p style="color:#18BFD3;font-size:22px;font-family:verdana;font-weight: bold;text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;display: inline">P48  </p>
     <p style="color:#CE0000;font-size:22px;font-family:verdana;font-weight: bold;text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;display: inline">Linker 1  </p>
     <p style="color:#d2b48c;font-size:22px;font-family:verdana;font-weight: bold;text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;display: inline">DR5-B  </p>
     <input class="form-check-input " type="checkbox" name="ref_str_check" value="" id="ref_str_check">
