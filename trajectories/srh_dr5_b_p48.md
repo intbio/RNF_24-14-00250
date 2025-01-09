@@ -152,17 +152,6 @@
         'diffuseInterior': false,
         'useInteriorColor': false
       });
-      nucl.addRepresentation('cartoon', {
-        "sele": ":R :S :T ",
-        "color": "green",
-        "aspectRatio": aspectRatio,
-        'radiusScale': radiusScale,
-        'radiusType': 'sstruc',
-        "capped": true,
-        'subdiv': 10,
-        'diffuseInterior': false,
-        'useInteriorColor': false
-      });
       
       NGL.autoLoad(xtc).then(function(frames) {
         nucl.addTrajectory(frames);
@@ -476,7 +465,6 @@
     <p style="color:#d2b48c;font-size:22px;font-family:verdana;font-weight: bold;text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;display: inline">DR5-B  </p>
     <p style="color:#020AED;font-size:22px;font-family:verdana;font-weight: bold;text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;display: inline">Linker 2  </p>
     <p style="color:#18BFD3;font-size:22px;font-family:verdana;font-weight: bold;text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;display: inline">P48  </p>
-    <p style="color:#009933;font-size:22px;font-family:verdana;font-weight: bold;text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;display: inline">DR5  </p>
     <br>
     <input class="form-check-input " type="checkbox" name="ref_str_check" value="" id="ref_str_check">
     <label class="form-check-label " for="ref_str_check">
