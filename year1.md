@@ -9,4 +9,4 @@
 
 #### Молекулярный докинг 
 - [SRH–VEGFR2](docking/docking_SRH_VEGFR2.md) - решения молекулярного докинга пептида SRH с рецептором VEGFR2 (PDB ID 2X1W, домены d2-d3)
-- [P48-FGFR1](docking/p48_fgfr1.md) - решения молекулярного докинга пептида P48 с рецептором FGFR1 (PDB ID 5W59, домены d2-d3)
+- [P48-FGFR1](docking/docking_P48_FGFR1.md) - решения молекулярного докинга пептида P48 с рецептором FGFR1 (PDB ID 5W59, домены d2-d3)
