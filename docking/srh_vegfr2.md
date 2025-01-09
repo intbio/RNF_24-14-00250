@@ -1,7 +1,6 @@
 
-## Решения молекулярного докинга пептида SRH с рецептором VEGFR2 (PDB ID 2X1W, домены d2-d3)
-[Назад](http://intbio.github.io/RNF_24-14-00250/year1.html)
-
+## Visualisation of docking solutions for the SRH-VEGFR2 complex 
+[Back](https://intbio.org/2024_Druzhkova_et_al/)
 
 <html lang="en">
 <head>
