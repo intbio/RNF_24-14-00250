@@ -1,5 +1,5 @@
 
-## Решения молекулярного докинга пептида SRH с рецептором VEGFR2 (PDB ID 2X1W, домены d2-d3)
+## Решения молекулярного докинга пептида P48 с рецептором FGFR1 (PDB ID 5W59, домены d2-d3)
 [Назад](http://intbio.github.io/RNF_24-14-00250/year1.html)
 
 <html lang="en">
@@ -8,7 +8,7 @@
 </head>
 <body>
 <br>
-  <p style="color:#d6d6d6;font-size:22px;font-family:verdana;font-weight: bold;text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;display: inline">VEGFR2, домены d2-d3 (PDB ID 2X1W)</p>
+  <p style="color:#d6d6d6;font-size:22px;font-family:verdana;font-weight: bold;text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;display: inline">FGFR1, домены d2-d3 (PDB ID 5W59)</p>
 <!--   <p style="color:#fc03ec;font-size:22px;font-family:verdana;font-weight: bold;text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black">Пептид EARGIHCHSIR</p> -->
  
 <table border="solid 1px;" style="font-size:14px;">
@@ -47,7 +47,7 @@
         ['0xecf0f1', '_H'],
         ["blue", "_N"],
         ["red", "_O"],
-        ["magenta", "*"]
+        ["cyan", "*"]
       ], "DA");
 		for (k = 0; k < arrayLength; k++) {
             window.stage.loadFile(`${names[k]}`).then(function (ref_pdb) {
