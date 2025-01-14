@@ -23,14 +23,14 @@
   <script>
   
 
-   var names = ['docking_str/SRH_VEGFR2_1.pdb', 'docking_str/SRH_VEGFR2_2.pdb', 'docking_str/SRH_VEGFR2_3.pdb', 'docking_str/SRH_VEGFR2_4.pdb', 'docking_str/SRH_VEGFR2_5.pdb', 'docking_str/SRH_VEGFR2_6.pdb', 'docking_str/SRH_VEGFR2_7.pdb', 'docking_str/SRH_VEGFR2_8.pdb', 'docking_str/SRH_VEGFR2_9.pdb', 'docking_str/SRH_VEGFR2_10.pdb']
+   var names = ['docking_str/P48_FGFR1_1.pdb', 'docking_str/P48_FGFR1_2.pdb', 'docking_str/P48_FGFR1_3.pdb', 'docking_str/P48_FGFR1_4.pdb', 'docking_str/P48_FGFR1_5.pdb', 'docking_str/P48_FGFR1_6.pdb', 'docking_str/P48_FGFR1_7.pdb', 'docking_str/P48_FGFR1_8.pdb', 'docking_str/P48_FGFR1_9.pdb', 'docking_str/P48_FGFR1_10.pdb']
    var models =  [1, 2, 3, 4, 5, 6, 7, 8, 9, 10] 
-   var galaxy_scores = [0.353,0.353,0.346,0.346,0.306,0.312,0.310,0.291,0.284,0.294]
-   var energies = [-1.172,-5.849,-4.649,-6.080,-7.798,-4.074,-8.049,-3.299,-5.226,0.426]
+   var galaxy_scores = [0.389,0.383,0.338,0.327,0.329,0.333,0.293,0.324,0.333,0.324]
+   var energies = [-2.683,-3.528,-5.325,-4.392,-4.852,-7.017,-6.032,-4.73,-1.181,-0.124]
    peptide_reps = [];
     $(document).ready(function() {
       window.stage = new NGL.Stage("viewport",{ backgroundColor:"#FFFFFF" });
-      window.stage.loadFile("docking_str/SRH_VEGFR2_1.pdb").then(function (ref_pdb) {
+      window.stage.loadFile("docking_str/P48_FGFR1_1.pdb").then(function (ref_pdb) {
         var aspectRatio = 2;
         var radius = 1.5;
 
